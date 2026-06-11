@@ -1,4 +1,4 @@
-# 🚀 Soumen Laha - 3D Interactive Portfolio
+# 🚀 Soumen Laha - 3D Portfolio
 
 A modern, fully responsive, and visually immersive personal portfolio website built using **HTML, CSS, JavaScript, and Three.js**. This portfolio showcases my academic journey, technical skills, projects, certifications, achievements, and professional experience through an elegant 3D user experience.
 
